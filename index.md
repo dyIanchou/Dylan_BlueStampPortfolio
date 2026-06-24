@@ -87,12 +87,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPqgOHRAKvI?si=1JG-JZ17lmMe7f-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
-- My starter project was the Jitterbug, which was a coin battery connected to a switch. The switch powered two red LEDs that were purposed as eyes as well as an unbalanced coin motor which when powered will vibrate the Jitterbug, providing movement. While building the Jitterbug, I learned how to solder and best practices to create a solid and neat joint between electrical components. Along the way, I made several mistakes with the soldering iron and accidentally creating a short circuit, causing me to spend a lot of time removing it with the desoldering pump. I think in the future if I was to continue working on this project I would try to creat neater soldering joints.
+My starter project was the Jitterbug, which was a coin battery connected to a switch. The switch powered two red LEDs that were purposed as eyes as well as an unbalanced coin motor which when powered will vibrate the Jitterbug, providing movement. While building the Jitterbug, I learned how to solder and best practices to create a solid and neat joint between electrical components. Along the way, I made several mistakes with the soldering iron and accidentally creating a short circuit, causing me to spend a lot of time removing it with the desoldering pump. I think in the future if I was to continue working on this project I would try to creat neater soldering joints.
 
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
