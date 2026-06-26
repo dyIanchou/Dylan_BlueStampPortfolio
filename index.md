@@ -1,11 +1,11 @@
 # Browser Controlled Robotic Arm
-Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+<!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! -->
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
+My project was a 4-axis robotic arm that is controlled by a controller. It consists of an arduino and a 7.5 volt battery to power 4 servos that control rotation of the base, the joints of the arm, and the opening and closing of the claw at the end. From this project, I learned power systems, how to use and encode an arduino, as well as learn valuable insight into proper tactics for building in compact spaces with relatively fragile electronics. 
+
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
-```
+
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -40,6 +40,7 @@ For your second milestone, explain what you've worked on since your previous mil
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone 
+-->
 
 # First Milestone
 
@@ -53,6 +54,8 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 
+My project is a browser controlled robotic arm, where the final goal is to build an arm that will respond to inputs sent from a website to pick up a large variety of robots. So far, I have tested all of the servos I will be using in my project and assembled the first joint of my arm, the swivel base, and a location for my arduino to stay secured to the arm. I have been having difficulties with controlling the speed of the servos through sketches on the arduino, and plan on fine tuning my code later on. 
+<!--
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
@@ -80,9 +83,9 @@ Don't forget to place the link of where to buy each component inside the quotati
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> | -->
 # Starter Project
--->
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPqgOHRAKvI?si=1JG-JZ17lmMe7f-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
