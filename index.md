@@ -1,7 +1,7 @@
 # Browser Controlled Robotic Arm
 <!--Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails! -->
 
-My project was a 4-axis robotic arm that is controlled by a controller. It consists of an arduino and a 7.5 volt battery to power 4 servos that control rotation of the base, the joints of the arm, and the opening and closing of the claw at the end. From this project, I learned power systems, how to use and encode an arduino, as well as learn valuable insight into proper tactics for building in compact spaces with relatively fragile electronics. 
+My project was a browser controlled 4-axis robotic arm that is controlled by a controller. It consists of an arduino and a 7.5 volt battery to power 4 servos that control rotation of the base, the joints of the arm, and the opening and closing of the claw at the end. From this project, I learned power systems, how to use and encode an arduino, as well as learn valuable insight into proper tactics for building in compact spaces with a large range of motion. 
 
 <!--- This is an HTML comment in Markdown -->
 <!--- Anything between these symbols will not render on the published site -->
