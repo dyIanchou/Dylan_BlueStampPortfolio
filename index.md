@@ -26,7 +26,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
-
+-->
 
 
 # Second Milestone
@@ -35,12 +35,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
--->
+Since my first milestone of getting all the hardware assembled and installing basic instructions onto the arduino, I have done a lot of modifications to the arm so that it works with bluetooth control through my computer. Since I am using the arduino nano, the microcontroller doesn't have any inherent bluetooth capabilities, I had to attach this HC-05 as a bluetooth module as a reciever to send data from my computer to my arduino. I also made some rough code to test that the information I send through the terminal is reaching my robotic arm by adding simple controls to rotate, move, and open/close the arm. Some challenges I faced were that I struggled to connect my HC-05 to my computer using a terminal, because that is something I have never done before. I have learned a lot about how bluetooth works and how to use my computer to communicate with external devices. Some future steps will be to construct the website with buttons that can control the robot instead of sending stuff directly through the computer terminal as well as maybe changing the claw design to increase grip strength and flexibility.
 
 # First Milestone
 
