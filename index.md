@@ -13,7 +13,7 @@ My project was a browser controlled 4-axis robotic arm that is controlled by a c
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](/gh-pages/docs/assets/Dylan C_(2).jpg)
+![Headstone Image](Dylan_C_(2).jpg)
 
  <!--- 
 # Final Milestone
