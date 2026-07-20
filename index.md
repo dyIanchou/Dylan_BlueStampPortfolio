@@ -11,7 +11,6 @@ My project was a browser controlled 4-axis robotic arm that is controlled by a c
 |:--:|:--:|:--:|:--:|
 | Dylan C | Menlo-Atherton | Mechanical Engineering | Incoming Senior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](Dylan_C_(2).jpg)
 
@@ -28,6 +27,15 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 -->
+
+# Third Milestone
+
+**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Since the last milestone, I was able to build a website that is actually capable of connecting to my robotic arm and controlling it. I made my website through Visual Studio Code through HTML CSS and JS. Using the built in ability to send data through COM ports, I was able to send signal via an established bluetooth conneciton to the HC-05 on my robot. However, there was a lot of issues when trying to establish a strong and stable connection. In addition, my claw seemed like it was too weak to grab anything with any real mass to it. To solve the issue of connectivity, I looked further into making my code require less of a stable connection. Instead of checking if the button is being pressed each millisecond, I changed it to send a signal to start moving a joint when I pressed a button, and a signal to stop when I let go. This way, a command that might have needed dozens of data signals was reduced to only 2. Another way I fixed the issue was reworking the power system. I realized that the amount of amps I was using to power my entire system wasn't enough, causing the bluetooth module to power off occasionally and disconnect from the website. I fixed that by changing my battery arrangement to provide more amps so that my HC-05 would not power off anymore. To fix my claw grip strength, I filed down the claws to give more surface contact between the object and the claw, as well as applying a few layers of plasti-dip to increase the grip. I also replaced the servo with one that could apply a larger torque. Through the making of this project I learned how power systems work and why it is important to pay attention to voltage and current. I also learned how to code in multiple languages, such as C++ and Javascript, as well as how to use and program microcontrollers for projects. For additional modifications, I hope to add a live video stream of the claw's view visible through the website.
+
 
 
 # Second Milestone
